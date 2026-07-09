@@ -1,11 +1,11 @@
 # Skype Clone — White-Label Video Conferencing & Meetings Platform by Miracuves
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxskype.mimeld.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxype.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/skype-clone/)
 [![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/skype-clone/#pricing)
 [![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
 
-**MXSkype** is a production-ready, white-label Skype clone: a complete video-conferencing platform with meetings, breakout rooms, and admin console — delivered with **100% source code ownership** in **6 working days**.
+**MXYpe** is a production-ready, white-label Skype clone: a complete video-conferencing platform with meetings, breakout rooms, and admin console — delivered with **100% source code ownership** in **6 working days**.
 
 > 📹 **See it running before you talk to anyone.** Live meetings, breakout rooms, and admin dashboard — demo credentials are printed on the [solution page](https://miracuves.com/skype-clone#demo). No sales call required.
 
@@ -16,7 +16,7 @@
 | Environment | URL | What you can test |
 |---|---|---|
 | 📱 Mobile App | [mas.mimeld.com](https://mas.mimeld.com) | Meet, call, share screen, chat |
-| 🌐 Web App | [mxskype.mimeld.com](https://mxskype.mimeld.com) | Full meetings experience in browser |
+| 🌐 Web App | [mxype.mimeld.com](https://mxype.mimeld.com) | Full meetings experience in browser |
 | 👥 Team Console | [Solution page → Demo](https://miracuves.com/skype-clone#demo) | Meetings, recordings, rooms, analytics |
 | 🛠️ Admin Dashboard | [Solution page → Demo](https://miracuves.com/skype-clone#demo) | Users, plans, storage, recordings |
 
@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$3,099**, transparent on the [solution page](https://miracuves.com/skype-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$2,499**, transparent on the [solution page](https://miracuves.com/skype-clone/#pricing) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -106,10 +106,10 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Skype Clone
-{MX_NAME}         MXSkype
+{MX_NAME}         MXYpe
 {CATEGORY}        Video Conferencing & Meetings Platform
-{DEMO_WEB}        mxskype.mimeld.com
-{PRICE}           $3,099
+{DEMO_WEB}        mxype.mimeld.com
+{PRICE}           $2,499
 {SLUG}            skype-clone
 {SOLUTION_URL}    https://miracuves.com/skype-clone/
 {VERTICAL}        video_conference
