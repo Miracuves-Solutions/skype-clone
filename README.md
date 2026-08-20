@@ -2,10 +2,10 @@
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxype.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/skype-clone/)
-[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/skype-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/skype-clone/#features)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/skype-clone/#features)
 
-**MXYpe** is a production-ready, white-label Skype clone: a complete video-conferencing platform with meetings, breakout rooms, and admin console — delivered with **100% source code ownership** in **6 working days**.
+**mxype** is a production-ready, white-label Skype clone: a complete video-conferencing platform with meetings, breakout rooms, and admin console — delivered with **100% source code ownership** in **6 working days**.
 
 > 📹 **See it running before you talk to anyone.** Live meetings, breakout rooms, and admin dashboard — demo credentials are printed on the [solution page](https://miracuves.com/skype-clone#demo). No sales call required.
 
@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$2,499**, transparent on the [solution page](https://miracuves.com/skype-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$2,499**, transparent on the [solution page](https://miracuves.com/skype-clone/#features) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -80,10 +80,12 @@ Custom video-conferencing platforms run $100k–$500k and 6–14 months. A prove
 ## 📚 Resources
 
 - 📖 [Skype Clone — Full Solution Page](https://miracuves.com/skype-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does a Video Conferencing App Cost in 2026?](https://miracuves.com/skype-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Skype Clone Script in 2026](https://miracuves.com/skype-clone/blog/) features, pricing & launch guide
-- 🧠 [SFU vs MCU: Why Modern Video Uses Selective Forwarding](https://miracuves.com/skype-clone/blog/) media-server architecture
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/skype-clone/facts/) every claim we make, verified
+- 💰 [How Much Does a Video Conferencing App Cost in 2026?](https://miracuves.com/skype-clone#features) pricing breakdown & what's included
+- 📝 [Best Skype Clone Script in 2026](https://miracuves.com/skype-clone#features) features, pricing & launch guide
+- 🧠 [SFU vs MCU: Why Modern Video Uses Selective Forwarding](https://miracuves.com/skype-clone#features) media-server architecture
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/skype-clone#faq) every claim we make, verified
+- 💻 [Skype Clone — Technical Stack](https://miracuves.com/skype-clone#techstack) languages, databases, infra, payments, hosting
+- 🔄 [Skype Clone — How It Works / User Flow](https://miracuves.com/skype-clone#flow) step-by-step product walkthrough
 
 ## 🏢 About Miracuves
 
@@ -95,7 +97,7 @@ Custom video-conferencing platforms run $100k–$500k and 6–14 months. A prove
 
 ### ⚠️ Note on This Repository
 
-This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/skype-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/skype-clone/#features). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
 *Keywords: skype clone, skype clone script, video conferencing, video meeting, white label Zoom, breakout rooms, Flutter video app, Node.js video*
 
@@ -106,7 +108,7 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Skype Clone
-{MX_NAME}         MXYpe
+{MX_NAME}         mxype
 {CATEGORY}        Video Conferencing & Meetings Platform
 {DEMO_WEB}        mxype.mimeld.com
 {PRICE}           $2,499
